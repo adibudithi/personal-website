@@ -51,10 +51,12 @@ topics:
     web_url: https://illinois.edu/
     image_url: images/Illinois_Block_I.png
 
-  - name: Web design
+  - name: Super Smash Bros
+    web_url: https://www.smashbros.com/
+    image_url: images/Smash_Ball.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: NBA
+    web_url: hhttps://www.nba.com/
+    image_url: images/nba_PNG2.png
 
 theme: jekyll-theme-hacker
